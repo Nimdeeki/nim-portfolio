@@ -1,6 +1,7 @@
 # Nim Deeki Sherpa — Personal Portfolio Website
 
-A responsive personal portfolio website built using HTML and CSS, showcasing my background, technical skills, and contact information. This project was built as part of Week 1 (HTML) and Week 2 (CSS) of my web development internship at Developers Arena.
+A responsive personal portfolio website built using HTML and CSS, showcasing my background, technical skills, and contact information.
+
 
 ---
 
